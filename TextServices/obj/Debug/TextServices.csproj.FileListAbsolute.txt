@@ -1,0 +1,4 @@
+C:\Library\Google Drive\Study\Net\WordCount\TextServices\bin\Debug\TextServices.dll
+C:\Library\Google Drive\Study\Net\WordCount\TextServices\bin\Debug\TextServices.pdb
+C:\Library\Google Drive\Study\Net\WordCount\TextServices\obj\Debug\TextServices.dll
+C:\Library\Google Drive\Study\Net\WordCount\TextServices\obj\Debug\TextServices.pdb

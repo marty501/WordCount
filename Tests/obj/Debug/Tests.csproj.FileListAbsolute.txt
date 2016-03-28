@@ -1,0 +1,9 @@
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\Tests.dll
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\Tests.pdb
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\nunit.framework.dll
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\TextServices.dll
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\TextServices.pdb
+C:\Library\Google Drive\Study\Net\WordCount\Tests\bin\Debug\nunit.framework.xml
+C:\Library\Google Drive\Study\Net\WordCount\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Library\Google Drive\Study\Net\WordCount\Tests\obj\Debug\Tests.dll
+C:\Library\Google Drive\Study\Net\WordCount\Tests\obj\Debug\Tests.pdb
